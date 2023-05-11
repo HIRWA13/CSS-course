@@ -24,13 +24,6 @@ CSS provides various properties that allows us to position an element.
 
 ### find out more on CSS Positioning in the CSS_Positioning directory
 
-## Projects:
-
-here are the projects that I attempted after learning several concepts in CSS.
-[FlexBox-Project]()
-[Grid-Project]()
-[positioning-Project]()
-
 ## DISCLAIMER:
 
 _{any fault found in this repository is my fault and anyone is allowed to correct it.}_
